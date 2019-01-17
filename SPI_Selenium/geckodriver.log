@@ -1,0 +1,857 @@
+1518029085674	geckodriver	INFO	geckodriver 0.19.1
+1518029085679	geckodriver	INFO	Listening on 127.0.0.1:51693
+1518029086812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.XPqHkQjtjgjc"
+1518029087303	Marionette	INFO	Enabled via --marionette
+2018-02-07 13:44:48.131 plugin-container[15534:153221] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518029088526	Marionette	INFO	Listening on port 51708
+1518029088580	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 13:44:49.085 plugin-container[15535:153317] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+WebGL(0x14ef2d000)::ForceLoseContext
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x123e78000)::ForceLoseContext
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x123e77800)::ForceLoseContext
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.299134ae.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1518032034836	geckodriver	INFO	geckodriver 0.19.1
+1518032034840	geckodriver	INFO	Listening on 127.0.0.1:52325
+1518032035970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.XWnypKKTw3UL"
+1518032036471	Marionette	INFO	Enabled via --marionette
+2018-02-07 14:33:57.229 plugin-container[17376:172631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1513f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518032037635	Marionette	INFO	Listening on port 52336
+1518032037722	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 14:33:58.136 plugin-container[17377:172724] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-02-07 14:34:17.717 plugin-container[17433:173034] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518032464892	geckodriver	INFO	geckodriver 0.19.1
+1518032464900	geckodriver	INFO	Listening on 127.0.0.1:52452
+1518032466022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.3oai5dVEpMRf"
+1518032466492	Marionette	INFO	Enabled via --marionette
+2018-02-07 14:41:07.267 plugin-container[17713:176762] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518032467663	Marionette	INFO	Listening on port 52465
+1518032467683	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 14:41:08.176 plugin-container[17715:176857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1543f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1518032833739	geckodriver	INFO	geckodriver 0.19.1
+1518032833744	geckodriver	INFO	Listening on 127.0.0.1:52579
+1518032834833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.9hXLHjPKcChm"
+1518032835278	Marionette	INFO	Enabled via --marionette
+2018-02-07 14:47:16.029 plugin-container[18158:180487] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518032836373	Marionette	INFO	Listening on port 52590
+1518032836392	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 14:47:16.955 plugin-container[18161:180589] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1518033099758	geckodriver	INFO	geckodriver 0.19.1
+1518033099764	geckodriver	INFO	Listening on 127.0.0.1:52695
+1518033100863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.hCAbPvfZee4c"
+1518033101341	Marionette	INFO	Enabled via --marionette
+2018-02-07 14:51:42.175 plugin-container[18417:183312] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518033102529	Marionette	INFO	Listening on port 52706
+1518033102625	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 14:51:43.135 plugin-container[18418:183409] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsigns.net/static/js/main.e8168233.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1518033523758	geckodriver	INFO	geckodriver 0.19.1
+1518033523762	geckodriver	INFO	Listening on 127.0.0.1:52928
+1518033524852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.2cMeuBjWG4ql"
+1518033525300	Marionette	INFO	Enabled via --marionette
+2018-02-07 14:58:46.044 plugin-container[18927:188307] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518033526389	Marionette	INFO	Listening on port 52939
+1518033526408	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 14:58:46.955 plugin-container[18928:188419] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+WebGL(0x11cc2b000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x1176cd800)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x11739a000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+[Child 18927, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1518034339076	geckodriver	INFO	geckodriver 0.19.1
+1518034339080	geckodriver	INFO	Listening on 127.0.0.1:53107
+1518034340168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.EZkZXurqPPiR"
+1518034340604	Marionette	INFO	Enabled via --marionette
+2018-02-07 15:12:21.351 plugin-container[19598:195440] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518034341737	Marionette	INFO	Listening on port 53118
+1518034341829	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 15:12:22.292 plugin-container[19600:195538] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Child 19598, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1518034378683	geckodriver	INFO	geckodriver 0.19.1
+1518034378687	geckodriver	INFO	Listening on 127.0.0.1:53226
+1518034379784	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.uqeM51KTTOrk"
+1518034380255	Marionette	INFO	Enabled via --marionette
+2018-02-07 15:13:01.064 plugin-container[19673:196621] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518034381399	Marionette	INFO	Listening on port 53237
+1518034381449	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 15:13:01.969 plugin-container[19674:196732] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+WebGL(0x1298d4000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x11c6ae800)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x127398000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19673, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1518037582611	geckodriver	INFO	geckodriver 0.19.1
+1518037582617	geckodriver	INFO	Listening on 127.0.0.1:62872
+1518037583751	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.KJjrll9EEarY"
+1518037584244	Marionette	INFO	Enabled via --marionette
+2018-02-07 16:06:25.062 plugin-container[22152:221600] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518037585461	Marionette	INFO	Listening on port 62887
+1518037585512	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 16:06:25.980 plugin-container[22153:221688] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1518037620742	geckodriver	INFO	geckodriver 0.19.1
+1518037620750	geckodriver	INFO	Listening on 127.0.0.1:63141
+1518037621893	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.JApnOWR2LIo1"
+1518037622454	Marionette	INFO	Enabled via --marionette
+2018-02-07 16:07:03.383 plugin-container[22228:222453] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1523f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518037623797	Marionette	INFO	Listening on port 63156
+1518037623873	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 16:07:04.262 plugin-container[22229:222537] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+WebGL(0x14aadd000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x123bdb800)::ForceLoseContext
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1518037749043	geckodriver	INFO	geckodriver 0.19.1
+1518037749048	geckodriver	INFO	Listening on 127.0.0.1:63736
+1518037750184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.lU3aKlnGZjqs"
+1518037750679	Marionette	INFO	Enabled via --marionette
+2018-02-07 16:09:11.475 plugin-container[22354:224451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518037751858	Marionette	INFO	Listening on port 63751
+1518037751970	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 16:09:12.437 plugin-container[22357:224549] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+WebGL(0x126ce0800)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x123054800)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x122c8b000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22357, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22354, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1518038188932	geckodriver	INFO	geckodriver 0.19.1
+1518038188939	geckodriver	INFO	Listening on 127.0.0.1:49240
+1518038190064	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.yw5Eo4r5ns0c"
+1518038190533	Marionette	INFO	Enabled via --marionette
+2018-02-07 16:16:31.301 plugin-container[22831:228953] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518038191700	Marionette	INFO	Listening on port 49255
+1518038191726	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 16:16:32.216 plugin-container[22832:229056] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+WebGL(0x1215d9000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x11d689800)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x11d5db800)::ForceLoseContext
+1518038269918	geckodriver	INFO	geckodriver 0.19.1
+1518038269923	geckodriver	INFO	Listening on 127.0.0.1:49705
+1518038271059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.Yu4RlucTm9wd"
+1518038271525	Marionette	INFO	Enabled via --marionette
+2018-02-07 16:17:52.270 plugin-container[22933:230597] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518038272625	Marionette	INFO	Listening on port 49716
+1518038272716	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 16:17:53.200 plugin-container[22937:230701] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+WebGL(0x11edc0000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x10cda3000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x10cda4800)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+[Child 22933, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1518038472582	geckodriver	INFO	geckodriver 0.19.1
+1518038472587	geckodriver	INFO	Listening on 127.0.0.1:49899
+1518038473677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.AT4OqpsGOsG9"
+1518038474143	Marionette	INFO	Enabled via --marionette
+2018-02-07 16:21:14.929 plugin-container[23256:233754] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518038475315	Marionette	INFO	Listening on port 49910
+1518038475350	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 16:21:15.896 plugin-container[23257:233851] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+WebGL(0x124ebf000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x124a76800)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+WebGL(0x126653000)::ForceLoseContext
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1518038954785	geckodriver	INFO	geckodriver 0.19.1
+1518038954792	geckodriver	INFO	Listening on 127.0.0.1:50154
+1518038955918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vx/574_kff92_30tfqlr6t_2k9r0000gp/T/rust_mozprofile.gm7tAffwNeXW"
+1518038956388	Marionette	INFO	Enabled via --marionette
+2018-02-07 16:29:17.136 plugin-container[23582:238406] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518038957482	Marionette	INFO	Listening on port 50165
+1518038957571	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-07 16:29:18.068 plugin-container[23584:238512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://nycdotsignsstg.net/static/js/main.edb767b1.js, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
