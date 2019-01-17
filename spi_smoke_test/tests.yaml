@@ -1,0 +1,8 @@
+---
+  url: https://nycdotsignsstg.net
+  tests:
+    # Initial_load: initial_load
+    # Disclaimer: disclaimer_tests
+    # Menu: menu_tests
+    SmokeTest: smoke_test
+    All: all
